@@ -43,7 +43,7 @@
 
 ## 3. 工作流架构
 
-![Workflow Architecture](workflow screenshot.png)
+![Workflow Architecture](workflow%20screenshot.png)
 
 整体工作流：
 
